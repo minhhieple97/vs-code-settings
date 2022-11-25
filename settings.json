@@ -1,0 +1,51 @@
+{
+  "editor.fontSize": 26,
+  "editor.tabSize": 1,
+  "editor.wordWrap": "wordWrapColumn",
+  "terminal.integrated.fontSize": 26,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.minimap.enabled": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorBlinking": "expand",
+  "editor.foldingImportsByDefault": true,
+  "tabnine.experimentalAutoImports": true,
+  "git.confirmSync": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+  },
+  "git.ignoreRebaseWarning": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "explorer.confirmDragAndDrop": false,
+  "editor.codeActionsOnSave": {},
+  "rapidapi.requests.sendRequestBody": true,
+  "editor.minimap.maxColumn": 70,
+  "editor.wordWrapColumn": 70,
+  "remote.SSH.remotePlatform": {
+    "kanboard_dev": "linux"
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "explorer.confirmDelete": false,
+  "rapidapi.terminalLink.enabled": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.rulers": [80, 120],
+  "window.zoomLevel": -1,
+  "sync.gist": "082c5ff76962a59d4e291a54044ac3b1"
+}
